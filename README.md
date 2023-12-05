@@ -1,1 +1,1 @@
-# Aplikacja zarzdzaj ca domowymi  listami zakupów
+# Aplikacja zarzdzająca domowymi  listami zakupów
