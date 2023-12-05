@@ -1,0 +1,1 @@
+# Aplikacja-zarz-dzaj-ca-domowymi-listami-zakup-w
